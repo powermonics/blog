@@ -1,7 +1,8 @@
-name: powermonics
-
+logo: logo.png
+name: Powermonics
+description: Thoughts on Power, Money, and Systems
 markdown: kramdown
-paginate: 5
+paginate: 9
 paginate_path: /page:num/
 
 include:
