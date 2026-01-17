@@ -21,7 +21,7 @@ Stay tuned ...
 
 <div class="sticky-top sticky-top-80">
 Subscribe to mailing list:
-<iframe src="https://powermonics.substack.com/embed"  style="border:1px solid #EEE; background:white; padding-top: 10px; width: 100%;" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://powermonics.substack.com/embed"  style="border:1px solid #EEE; background:white; width: 100%;" frameborder="0" scrolling="no"></iframe>
 
 </div>
 </div>
