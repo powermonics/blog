@@ -9,7 +9,7 @@ permalink: /about
 
 <p>Powermonics is a blog about power, how it is built, exercised, and lost through money and technology. I explore history, geopolitics, and modern systems, with a strong focus on mechanisms and less on events.
 </p><p>
-This is not a news site or an academic journal. Essays here are long-form, reflective, offering my perspective on how and why something happened. I’m a software engineer with an interest in history, political economy, and geopolitics.
+This is not a news site or an academic journal. Essays here are long-form, reflective, offering my perspective on how and why something happened or happening. Alongside my work as a software engineer and my focus on technology, I am deeply interested in history, political economy, and geopolitics.
 </p><p>
 This is a personal project. Some content is free and will always be, but the deeper analysis is reserved for subscribers.
 </p><p>
