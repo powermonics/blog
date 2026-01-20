@@ -77,6 +77,9 @@ section.recent-posts {
     padding-bottom: 20px;
     margin-bottom: -1px;
 }
+.article-post{
+    clear: both;
+}
 
 .article-post ol,
 .article-post ul {
@@ -231,7 +234,6 @@ span.post-read {
 }
 
 span.post-read-more {
-    display: inline-block;
     float: right;
     margin-top: 8px;
 }
@@ -310,6 +312,10 @@ span.post-read-more a:hover {
     font-weight: 700;
     margin-bottom: 1rem;
 }
+.postsubtitle{
+    font-weight: 50;
+    font-style: italic;
+}
 
 .footer {
     border-top: 1px solid rgba(0, 0, 0, .05) !important;
@@ -347,6 +353,12 @@ blockquote {
 }
 
 .featured-image {
+    display: block;
+}
+.featured-image-caption{
+    font-style: italic; 
+    font-size: small; 
+    float: right; 
     display: block;
     margin-bottom: 1.5rem;
 }

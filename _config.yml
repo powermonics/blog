@@ -1,14 +1,15 @@
-logo: logo.png
+logo: /assets/images/logo.png
 name: Powermonics
 description: Thoughts on Power, Money, and Technology
 markdown: kramdown
 paginate: 10
 paginate_path: /page:num/
 
+
 include:
   - _pages
 
-
+permalink: /:title/
 
 plugins:
   - jekyll-feed
