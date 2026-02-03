@@ -37,6 +37,7 @@ Innovation was encouraged thru new schools and research in different areas. Firs
 
 Establishment and maintanence of the entire education system, required a significant and crucial resource. But, where did the money come from? 
 
+
 ## Cashflow
 
 With the timar system, the state had turned the war into a cashflow machine. Newly conqured land didn't only sustain spahis, it also expanded the tax base. Life went on with new rulers. People farmed, traded and paid taxes. The state was tolerant toward different nations and cultures, it didn't enforce the conversion to Islam and allowed free practice of religion. What was imposed, was the new law. Under sharia law, theft and fraud were treated seriously and punished visibly. The punishement for the theft could be the loss of a hand, making it as a clear message to everyone who cuould potentially engage in such a risk. For society, this meant stability, peace and chance to prosper. For the state, it meant new revenue that arrived quitely, as long as everyday life continued.
