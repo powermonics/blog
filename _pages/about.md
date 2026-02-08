@@ -11,7 +11,7 @@ permalink: /about
 </p><p>
 This is not a news site or an academic journal. Essays here are long-form, reflective, offering my perspective on how and why something happened or happening. Alongside my work as a software engineer and my focus on technology, I am deeply interested in history, political economy, and geopolitics.
 </p><p>
-This is a personal project. Some content is free and will always be, but the deeper analysis is reserved for subscribers.
+This is a personal project. Some content is free and will always be, but the deeper analysis is reserved for paid subscribers.
 </p><p>
 If these ideas resonate with you, you’re welcome to <a href="https://powermonics.substack.com/embed">follow</a> or <a href="mailto:powermonics@gmail.com">contact me directly.</a></p>
 Stay tuned ...
