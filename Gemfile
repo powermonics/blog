@@ -7,3 +7,4 @@ gem "jekyll-seo-tag"
 gem "jekyll-paginate"
 gem "rexml"
 gem 'wdm', '>= 0.1.0'
+gem 'jekyll-archives'

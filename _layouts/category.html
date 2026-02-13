@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<!-- <ul>
+{% for post in page.posts %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+</ul> -->
+
+<div class="row listrecent">
+<div class="section-title col-md-12 mt-4">
+<h2 id="{{ page.title  | replace: " ","-" }}">Category <span class="text-capitalize">{{ page.title  }}</span></h2>
+</div>
+{% for post in page.posts %}
+{% if post.title != null %}
+{% if group == null or group == post.group %}
+{% include postbox.html %}
+{% endif %}
+{% endif %}
+{% endfor %}
+{% assign group = nil %}
+</div>

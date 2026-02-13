@@ -16,3 +16,13 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-archives
+
+
+jekyll-archives:
+  enabled:
+    - categories
+  layouts:
+    category: category
+  permalinks:
+    category: /categories/:name/
