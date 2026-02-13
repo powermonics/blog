@@ -122,7 +122,7 @@ xychart
 
 Gradually, the empire began to lose its sovereignty. Foreign powers gained the control over financial insitutions, including the establishment and governance of the *Imperial Ottoman Bank*. All the important financial decisions were now made in Paris and London, rather than Istanbul. Once you gave the financial decisions in foreign hands, your chances to influence your own state are very limited. You are the guest in your own house, living in humility and praying for the time to end. When the end finally came, the debt still remained. The Republic of Turkey, as a successor state managed to fully repay the remaining debts inherited from the once mighty empire.
 
-## WWI and Disolution
+## WWI and Dissolution
 
 The last nail in the coffin of the dying state came with the Great War in Europe. At first, Ottomans attempted to remain neutral. A little bit naive expectation having in mind that all their foreign debt was owed to countries that already took their part in the war. France held 60%, Germany 20% and Britain 15% of Ottoman foreign debt. Siding with Germany, put the Ottomans in the position to settle their debts. They even announce the suspension of foreign debt repayments. 
 
