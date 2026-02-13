@@ -117,7 +117,7 @@ xychart
     x-axis [1854, 1855, 1858, 1862, 1863, 1865, 1875, 1914, 1933, 1954]
     y-axis "" 0 --> 220
     bar [3, 5, 5, 8, 8, 6, 40, 150]
-    line [3, 8, 13, 21, 29, 69, 98.5, 214.5, 140, 8.46, 0]
+    line [3, 8, 13, 21, 29, 69, 98.5, 214.5, 140, 8.46, 0 ]
 ```
 
 Gradually, the empire began to lose its sovereignty. Foreign powers gained the control over financial insitutions, including the establishment and governance of the *Imperial Ottoman Bank*. All the important financial decisions were now made in Paris and London, rather than Istanbul. Once you gave the financial decisions in foreign hands, your chances to influence your own state are very limited. You are the guest in your own house, living in humility and praying for the time to end. When the end finally came, the debt still remained. The Republic of Turkey, as a successor state managed to fully repay the remaining debts inherited from the once mighty empire.
