@@ -1,18 +1,44 @@
 {% if page.series %}
-  {% assign series_posts = site.posts | where: "series", page.series | sort: "series_order" %}
 
-  <div class="series-box">
-    <h3>This article is part of the "{{ page.series }}" series:</h3>
-    <ol>
-      {% for post in series_posts %}
-        <li>
-          {% if post.url == page.url %}
-            <strong>{{ post.title }}</strong>
-          {% else %}
-            <a href="{{ post.url }}">{{ post.title }}</a>
+  {% for s in page.series %}
+
+    {% assign collected = "" | split: "" %}
+
+    {% for post in site.posts %}
+      {% if post.series %}
+        {% for item in post.series %}
+          {% if item.title == s.title %}
+            {% assign collected = collected | push: post %}
           {% endif %}
-        </li>
-      {% endfor %}
-    </ol>
-  </div>
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+
+{% assign collected = collected | sort: "series_order_temp" %}
+
+    <div class="series-box">
+      <h3>
+        Part {{ s.order }} of {{ collected.size }} in the "{{ s.title }}" series
+      </h3>
+
+      <ol>
+        {% for post in collected %}
+          {% assign current = false %}
+          {% if post.url == page.url %}
+            {% assign current = true %}
+          {% endif %}
+
+          <li>
+            {% if current %}
+              <strong>{{ post.title }}</strong>
+            {% else %}
+              <a href="{{ post.url }}">{{ post.title }}</a>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ol>
+    </div>
+
+  {% endfor %}
+
 {% endif %}
