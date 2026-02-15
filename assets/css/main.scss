@@ -16,3 +16,58 @@
 	"syntax",
     "starsnonscss"
 ;
+.series-box {
+  background: #fafafa;
+  border-radius: 6px;
+  padding: 1.5rem;
+  margin: 3rem 0;
+  border: 1px solid #eee;
+}
+
+.series-box h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #111;
+}
+
+.series-box ol {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.series-box li {
+  margin-bottom: 0.5rem;
+  line-height: 1.6;
+}
+
+.series-box a {
+  color: #03a87c; /* Mediumish accent */
+  text-decoration: none;
+  transition: opacity 0.2s ease;
+}
+
+.series-box a:hover {
+  opacity: 0.7;
+}
+
+.series-box strong {
+  font-weight: 600;
+  color: #111;
+}
+
+.series-nav {
+  margin-top: 1.2rem;
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.9rem;
+}
+
+.series-nav a {
+  color: #03a87c;
+  text-decoration: none;
+}
+
+.series-nav a:hover {
+  text-decoration: underline;
+}

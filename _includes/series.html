@@ -1,0 +1,18 @@
+{% if page.series %}
+  {% assign series_posts = site.posts | where: "series", page.series | sort: "series_order" %}
+
+  <div class="series-box">
+    <h3>This article is part of the "{{ page.series }}" series:</h3>
+    <ol>
+      {% for post in series_posts %}
+        <li>
+          {% if post.url == page.url %}
+            <strong>{{ post.title }}</strong>
+          {% else %}
+            <a href="{{ post.url }}">{{ post.title }}</a>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ol>
+  </div>
+{% endif %}
