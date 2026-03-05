@@ -10,6 +10,10 @@ License: https://www.wowthemes.net/freebies-license/
 .mainheading {
     padding: 1rem 0rem;
 }
+.mainheading-container{
+        margin-top: 20px;
+
+}
 
 a {
     color: #00ab6b;
