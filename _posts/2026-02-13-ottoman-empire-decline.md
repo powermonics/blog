@@ -1,5 +1,6 @@
 ---
 layout: post
+premium: true
 title:  "When Power Stops Compounding"
 subtitle: "The Hidden Decline of the Ottoman Empire"
 categories: [ottoman empire, power, technology, money, decline]
