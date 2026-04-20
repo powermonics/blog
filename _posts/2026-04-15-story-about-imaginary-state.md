@@ -8,8 +8,6 @@ image_caption: 'Photo by Elena Kamphuis on Unsplash'
 featured: false
 ---
 
-## Ancient Kingdoms
-
 Once upon a time, there was a kingdom where group of people lived according to the divine laws. They had righteous leaders and enjoyed happiness and prosperity. But as time passed, they became greedy and not content with their own lives. Injustice spread throughout the kingdom, leadership changed from bad to worse, and the kingdom eventually fell under the rule of rival power. These rivals ultimately destroyed the kingdom and scattered its people across a new realm.
 
 Time passed, and scattered people  across the new kingdom eventually gained the opportunity to come back to their original land. Some of them did return, some didn't. Those who returned were able to form a new community where they lived peacefully. Although, this was not anymore the shadow of the glory they had before, at least they were on the land from where they were originally expelled. 
