@@ -10,7 +10,7 @@ featured: false
 author: mike
 series:
     - title: "Ottoman Empire"
-    - order: 2
+      order: 2
 
 mermaid: true
 toc: true
