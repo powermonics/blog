@@ -9,7 +9,7 @@ featured: false
 author: mike
 series:
     - title: "Ottoman Empire"
-      order: 1
+    - order: 1
 ---
 
 The Empire was born on a myth saying that its founder, Osman, had a mystical dream where the moon came to his chests and tree started to grow out of his navel. Its branches are stretched across three continents making a shade over them. Be it a myth or not, Ottoman Empire was indeed one of the greatest empires ever, ruling the territories of many cultures, religions and languages. 
